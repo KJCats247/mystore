@@ -8,6 +8,12 @@ Designed for a access to filepath using aliasing.
 - **Auto-Save:** Your paths are automatically saved to the `mystore.db` file.
 - **Easy Integration:** Easy to use in shell-functions
 
+## TODO
+
+- Get the fuull path of the file, not the relative path given.
+- Add --list
+- If given a name that already exsists, ask for overwrite or cancelation.
+
 ## Installation & Usage
 
 You need a working Rust environment (Cargo) installed.
